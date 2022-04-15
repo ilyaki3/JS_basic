@@ -37,4 +37,3 @@ function countBasketPrice(basket){
 }
 
 console.log('basket price = ' + countBasketPrice(basket))
-
